@@ -1,7 +1,7 @@
 name: Airsoft
 favicon: null
-layout_spectrum: 0.32781680719926953
-typography_spectrum: 0.1544260720256716
+layout_spectrum: 0.70229
+typography_spectrum: 0.64209
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7887886958196759
+    - '#49494a'
+    - '#222322'
+    - '#333333'
+    - '#000000'
+    - '#555555'
+  brandStrength: 0
   lightness: 0.563284152885899
-  saturation: 0.0024558203294873238
+  saturation: 0
   rhythmicContrast: 0.768885153811425
 purpose: []
